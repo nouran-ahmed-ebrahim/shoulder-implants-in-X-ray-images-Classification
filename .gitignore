@@ -1,0 +1,21 @@
+
+*.png
+*.jpg
+*.DESKTOP-CUOVS08
+*.css
+*.iml
+*.xml
+.idea/.name
+*.html
+*.download
+Building powerful image classification models using very little data_files/css
+tenserflow/model.tfl.meta
+tenserflow/model.tfl.index
+tenserflow/main.py
+tenserflow/model.tfl.data-00000-of-00001
+tenserflow/test_data.npy
+tenserflow/train_data.npy
+Keras.py
+*.npy
+my_model.h5
+AI.pdf
